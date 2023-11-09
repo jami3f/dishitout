@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 199.99999"
+   version="1.1"
+   id="svg1"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#2a2a2aff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-11.532093,-8.5358348)">
+    <g
+       id="g45"
+       inkscape:label="Words_v1">
+      <g
+         id="g43"
+         inkscape:label="Bottom"
+         transform="matrix(1.3836572,0,0,1.3836572,25.034538,21.010328)">
+        <path
+           id="path1"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.42151;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="Plate bottom"
+           d="M 63.5,63.5 8.7498535,95.109957 A 63.36356,63.36356 0 0 0 63.5,126.86357 63.36356,63.36356 0 0 0 118.25015,95.109957 Z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.1887px;font-family:Courier;-inkscape-font-specification:Courier;fill:#b3ebed;fill-opacity:1;stroke:#000000;stroke-width:0.506909;stroke-dasharray:none;stroke-opacity:1"
+           x="61.763309"
+           y="140.58804"
+           id="text54"
+           inkscape:label="Out"
+           transform="matrix(0.84302021,0,0,0.84302021,-13.553826,-13.45938)"><tspan
+             sodipodi:role="line"
+             id="tspan54"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#b3ebed;fill-opacity:1;stroke-width:0.506909;stroke-dasharray:none"
+             x="61.763309"
+             y="140.58804">Out</tspan></text>
+      </g>
+      <g
+         id="g42"
+         inkscape:label="Right"
+         transform="matrix(1.1862112,0,0,1.1862112,20.535137,8.8862072)">
+        <path
+           id="path41"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.491671;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="Plate right"
+           d="M 82.245903,3.4184849 V 77.328985 L 146.10927,114.20045 A 73.910483,73.910483 0 0 0 156.1564,77.328985 73.910483,73.910483 0 0 0 82.245903,3.4184849 Z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.9991px;font-family:Courier;-inkscape-font-specification:Courier;fill:#b3ebed;fill-opacity:1;stroke:#000000;stroke-width:0.409435;stroke-dasharray:none;stroke-opacity:1"
+           x="102.12241"
+           y="65.091629"
+           id="text53"
+           inkscape:label="It"><tspan
+             sodipodi:role="line"
+             id="tspan53"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#b3ebed;fill-opacity:1;stroke-width:0.409435;stroke-dasharray:none"
+             x="102.12241"
+             y="65.091629">It</tspan></text>
+      </g>
+      <g
+         id="g44"
+         inkscape:label="Left"
+         transform="matrix(1.3836572,0,0,1.3836572,19.835156,12.44664)">
+        <path
+           id="path42"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.42151;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:label="Plate left"
+           d="M 63.5,0.13642578 A 63.36356,63.36356 0 0 0 0.13642578,63.5 63.36356,63.36356 0 0 0 8.7498535,95.109957 L 63.5,63.5 Z" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5475px;font-family:Courier;-inkscape-font-specification:Courier;fill:#b3ebed;fill-opacity:1;stroke:#000000;stroke-width:0.386575;stroke-dasharray:none;stroke-opacity:1"
+           x="20.585466"
+           y="71.006912"
+           id="text52"
+           inkscape:label="Dish"
+           transform="matrix(0.84302021,0,0,0.84302021,-9.7961164,-7.2702104)"><tspan
+             sodipodi:role="line"
+             id="tspan52"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier;-inkscape-font-specification:Courier;fill:#b3ebed;fill-opacity:1;stroke-width:0.386575;stroke-dasharray:none"
+             x="20.585466"
+             y="71.006912">Dish</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
