@@ -35,7 +35,7 @@ function InputField(props: {
 
 	useEffect(() => {
 		props.addToRefObject?.(localRef.current as HTMLInputElement);
-	}, [props]);
+	}, []);
 
 	return (
 		<motion.input

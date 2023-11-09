@@ -36,7 +36,7 @@ function Row(props: {
 				};
 			});
 		}
-	}, [items, names, props]);
+	}, [items]);
 
 	function addItem(price: number) {
 		const newItem = { id: uuid(), price: price };
