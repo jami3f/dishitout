@@ -1,4 +1,4 @@
-import React, { useEffect, useState, SetStateAction, Dispatch } from "react";
+import { useEffect, useState, SetStateAction, Dispatch } from "react";
 import { Person } from "../../Types";
 import { add } from "../../assets/icons";
 import { InputField } from "../Common";
